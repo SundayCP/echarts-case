@@ -1,7 +1,7 @@
 {
-  "name": "y",
+  "name": "echarts-case",
   "version": "1.0.0",
-  "description": "report",
+  "description": "一个动态的数据展示页",
   "author": "cp",
   "private": true,
   "scripts": {
